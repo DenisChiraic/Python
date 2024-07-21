@@ -1,0 +1,1 @@
+[{"id": 1, "name": "Soda", "portion_size": 500, "price": 5.99, "alcohol_content": 0.0}, {"id": 2, "name": "Beer", "portion_size": 350, "price": 4.49, "alcohol_content": 5.0}, {"id": 3, "name": "Orange Juice", "portion_size": 250, "price": 3.99, "alcohol_content": 0.0}, {"id": 4, "name": "Whiskey", "portion_size": 10, "price": 24.99, "alcohol_content": 40.0}]
